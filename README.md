@@ -8,10 +8,10 @@ You can easily manage mass of your experience,softwares,text/picture/audio/video
 |------------------------------------------------------------|
  project features
 |------------------------------------------------------------|
-*build your own knowledge framework.
-*build indexes of your knowledge,make keywords,choose most suitable categories.
-*fast checkout what you ever have and now you want.
-*accumulate all your life.
+ *build your own knowledge framework.
+ *build indexes of your knowledge,make keywords,choose most suitable categories.
+ *fast checkout what you ever have and now you want.
+ *accumulate all your life.
 
 |------------------------------------------------------------|
  project introduction
