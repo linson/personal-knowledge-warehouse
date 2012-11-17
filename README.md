@@ -1,7 +1,7 @@
 personal-knowledge-warehouse
 ============================
 <h3>
-Purpose Have your own personal knowledge warehouse, to manage your knowledge better!
+Have your own personal knowledge warehouse, to manage your knowledge better!
 You can easily manage mass of your experience,softwares,text/picture/audio/video materials.
 </h3>
 <pre>
